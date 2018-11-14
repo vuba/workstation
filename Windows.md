@@ -17,6 +17,9 @@
 </li>
 <li>Add MAVEN_HOME to path</li>
 <li>Add maven and gradle to path</li>
+<li>add to maven settings.xml <br>
+<code>< localRepository\>/path/to/local/repo\< /localRepository></code>
+<br><ul><li>Fix white space in code</li></ul></li>
 <li>Add VirtualBox to path</li>
 <li>Add Docker machine env to path
 <ul>

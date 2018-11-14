@@ -27,4 +27,6 @@
 </li>
 </ul>
 </li>
+<li> Install gnome extensions <code>DashToPanel</code> and <code>TopIconsPlus</code></li>
+<li>Run <code>sudo apt-mark hold gnome-shell</code> to prevent breaking hnome extensions</li>
 </ol>
